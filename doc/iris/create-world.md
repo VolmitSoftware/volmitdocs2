@@ -2,7 +2,7 @@
 title: Create a new world with Iris
 description: 
 published: true
-date: 2025-07-13T14:18:22.810Z
+date: 2025-07-13T14:20:16.825Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T13:24:16.611Z
