@@ -2,7 +2,7 @@
 title: Create a new world with Iris
 description: 
 published: true
-date: 2025-07-13T13:47:39.297Z
+date: 2025-07-13T14:00:08.444Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T13:24:16.611Z
@@ -35,11 +35,21 @@ Before beginning, ensure you have:
 {.is-info}
 ---
 # Creating a World
-- Use `/iris create`.
+Use `/iris create`.
 
-Sub Parameters (required):
-Parameters
+> Writing the parameters in this command are case sensitive. All parameters should be lowercase when running the command.
+{.is-warning}
+
+- Parameters (required):
+ `Name` | /iris create name=
+ `Type` | /iris create type=overworld
+- Parameters (optional):
+ `Seed` | /iris create seed=1337
+
+Example:
+`/iris create name=iris type=overworld seed=1337`
 
 ---
 
-
+# Accessing the World
+- You can access your world by running `/iris tp world=(name)`.
