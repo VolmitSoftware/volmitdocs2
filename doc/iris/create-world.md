@@ -2,7 +2,7 @@
 title: Create a new world with Iris
 description: 
 published: true
-date: 2025-07-13T14:20:16.825Z
+date: 2025-07-13T15:09:27.313Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T13:24:16.611Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-13T13:24:16.611Z
 
 Iris allows you to generate stunning custom worlds with unique terrain, biomes, and structures. Follow this guide to create and manage your own dimension.  
 
----
+
 
 ## Preparation  
 Before beginning, ensure you have:  
@@ -23,7 +23,7 @@ Before beginning, ensure you have:
 
 > Do not give yourself the `iris.*` or `*` permission, as this can cause conflicts.
 {.is-warning}
----
+
 
 # Beginning
 - Once you have installed the Iris plugin, by placing the jar file downloaded in the previous step, start your server.
@@ -33,7 +33,7 @@ Before beginning, ensure you have:
 
 > Is your server constantly restarting or the biome amount reads 0? Contact us on our [Discord](https://discord.gg/yk3F6enprh).
 {.is-info}
----
+
 # Creating a World
 Use `/iris create`.
 
@@ -49,12 +49,12 @@ Use `/iris create`.
 Example:
 `/iris create name=iris type=overworld seed=1337`
 
----
+
 
 # Accessing the World
-- You can access your world by running `/iris tp world=<name>`.
+You can access your world by running `/iris tp world=<name>`.
 
----
+
 
 - [Next *Replacing Your Main World*](/doc/iris/replacing-main-world)
 {.links-list}
