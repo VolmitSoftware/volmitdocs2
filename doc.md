@@ -2,7 +2,7 @@
 title: Documentation
 description: 
 published: true
-date: 2025-07-13T12:31:23.000Z
+date: 2025-07-13T12:33:26.044Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T12:28:15.571Z
@@ -16,8 +16,10 @@ aswr
  g
  awrsg 
  awsrg
- 
-![docs_login_wallpaper.webp](/brand assets/docs_login_wallpaper.webp){.align-center}
+
+![login_wallpaper.png](/brand assets/login_wallpaper.png)
+
+![login_wallpaper.png](/brand assets/login_wallpaper.png){.align-center}
  
  a grwsg wrsg wg r
  
