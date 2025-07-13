@@ -2,7 +2,7 @@
 title: Replacing Your Main World
 description: 
 published: true
-date: 2025-07-13T15:29:24.984Z
+date: 2025-07-13T15:29:37.796Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T14:19:14.584Z
@@ -34,5 +34,5 @@ To replace your main world make sure you have:
 - Delete the `world`, `world_nether`, and `world_the_end` as they are no longer used.
 - Start your server and a new `iris_nether` and `iris_the_end` will be created.
 
-Once you have finished these steps, you have successfully set your Iris world as your main world.
+Once you have finished these steps, you have successfully set Iris as your main world.
 
