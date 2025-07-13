@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-13T16:37:47.285Z
+date: 2025-07-13T16:41:30.132Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -104,7 +104,13 @@ Aliases: `version`
 Print the plugins current version information.
 
 # Debug
-Aliases: `debug` 
+Aliases: `debug`
 Toggle the debug information in Console.
 - `on` 
 A true or false variable to turn debug on and off.
+
+# Updater
+Aliases: `updater`
+Updates all chunks in the specified world.
+- `world`
+World name to update chunks.
