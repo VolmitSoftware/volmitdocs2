@@ -2,7 +2,7 @@
 title: Create a new world with Iris
 description: 
 published: true
-date: 2025-07-13T14:04:33.041Z
+date: 2025-07-13T14:04:55.879Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T13:24:16.611Z
@@ -53,4 +53,3 @@ Example:
 
 # Accessing the World
 - You can access your world by running `/iris tp world=<name>`.
-- 
