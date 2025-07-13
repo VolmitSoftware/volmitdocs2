@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-13T16:30:58.804Z
+date: 2025-07-13T16:37:47.285Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -91,3 +91,20 @@ Identify the current Biome.
 `hand`
 Identify what's in my hand.
 
+# Reload
+Aliases: `reload`
+Reload the configuration files.
+
+# Metrics
+Aliases: `metrics`
+Get the current Metrics for your world.
+
+# Version
+Aliases: `version`
+Print the plugins current version information.
+
+# Debug
+Aliases: `debug` 
+Toggle the debug information in Console.
+- `on` 
+A true or false variable to turn debug on and off.
