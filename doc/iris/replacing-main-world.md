@@ -2,7 +2,7 @@
 title: Replacing Your Main World
 description: 
 published: true
-date: 2025-07-13T15:29:37.796Z
+date: 2025-07-13T16:14:41.098Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T14:19:14.584Z
@@ -35,4 +35,7 @@ To replace your main world make sure you have:
 - Start your server and a new `iris_nether` and `iris_the_end` will be created.
 
 Once you have finished these steps, you have successfully set Iris as your main world.
+
+- [Next *Command Usage*](/doc/iris/commands)
+{.links-list}
 
