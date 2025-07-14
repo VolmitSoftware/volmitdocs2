@@ -1,14 +1,16 @@
 ---
-title: Untitled Page
+title: Theme Overrides
 description: 
 published: true
-date: 2025-07-14T07:17:00.478Z
+date: 2025-07-14T07:21:35.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-14T07:13:47.266Z
 ---
 
-```
+## CSS Override
+
+```CSS
 .v-footer {
   visibility: hidden;
   opacity: 0;
@@ -164,4 +166,12 @@ body {
   margin-left: auto;
   margin-right: auto
 }
+.v-main .contents .prismjs {
+    padding: 1rem 1rem 1rem 0.7rem;
+}
+```
+---
+## Head HTML Injection
+```HTML
+<meta name="theme-color" content="#ffffff">
 ```
