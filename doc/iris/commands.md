@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T12:20:17.944Z
+date: 2025-07-14T12:20:25.470Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -254,7 +254,7 @@ Kick everyone out of an Iris world.
 The world name to remove players from.
 
 Example usage:
-`/iris evacuate <my_world>``
+`/iris evacuate <my_world>`
 
 # Aura
 Aliases: `aura`
