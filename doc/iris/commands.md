@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T12:35:04.072Z
+date: 2025-07-14T12:39:27.266Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -19,16 +19,29 @@ dateCreated: 2025-07-13T15:59:22.969Z
 Aliases: `irs`, `ir`, `iris`
 The top level argument for all Iris commands.
 
+```
+/iris
+```
 
 # Studio
 Aliases: `s`, `std`, `studio`
 Top argument for Iris Studio.
+
+```
+/iris studio
+```
+
 - [Studio *Iris Studio Command Arguments*](/doc/iris/studio-commands)
 {.links-list}
 
 # Object
 Aliases: `o`, `object`
 Top argument for Iris Object manipulation.
+
+```
+/iris object
+```
+
 - [Object *Iris Object Command Arguments*](/doc/iris/object-commands)
 {.links-list}
 
@@ -49,8 +62,12 @@ Stop the active pregeneration.
  `pause`
 Pause the active pregeneration.
 
+```
+/iris pregen start radius=5000 world=<my_world> center=0,0
+```
+
 # Jigsaw
-Aliases: None
+Aliases: `jigsaw`
 Iris jigsaw commands.
 Subcommands:
 `place`
@@ -73,6 +90,10 @@ The object to use for this piece.
 
 `edit`
 The jigsaw piece to edit.
+
+```
+/iris jigsaw place structure=igloo
+```
 
 # What
 Aliases: `what`
