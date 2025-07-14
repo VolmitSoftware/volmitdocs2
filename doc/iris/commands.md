@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T12:20:25.470Z
+date: 2025-07-14T12:35:04.072Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -92,6 +92,10 @@ Identify the current Biome.
 `hand`
 Identify what's in my hand.
 
+```
+/iris what block
+```
+
 # Edit 
 Aliases: `edit`
 Edit something.
@@ -108,6 +112,11 @@ Edit the cave file you specify.
 `jigsawPiece`, `piece`
 Edit the jigsaw pieces you specify.
 
+```
+/iris edit region region=frozen
+```
+
+
 # Find
 Aliases: `find`, `goto`
 Find something.
@@ -122,6 +131,11 @@ Find a structure.
 `poi`
 Find a point of interest.
 
+```
+/iris find structure structure=village-savanna
+
+```
+
 # Download
 Aliases: `dl`, `download`
 Download a project.
@@ -134,6 +148,11 @@ Download a project.
 - `overwrite`, `force`
  Whether or not to overwrite the existing pack with the one being downloaded.
 
+```
+/iris download pack=overworld branch=master trim=true/false overwrite=true/false
+
+```
+
 # Remove
 Aliases: `delete`, `rm`, `del`, `remove`
 Remove an Iris world.
@@ -142,15 +161,27 @@ Remove an Iris world.
 - `delete`
  Whether or not to delete the world from the server. (default: true)
 
+```
+/iris remove world=<my_world> delete=true/false
+```
+
 # Version
 Aliases: `version`
 Print the plugins current version information.
+
+```
+/iris version
+```
 
 # Debug
 Aliases: `debug`
 Toggle the debug information in Console.
 - `on` 
 A true or false variable to turn debug on and off.
+
+```
+/iris debug on/off
+```
 
 # Create
 Aliases: `c`, `+`, `create`
@@ -162,33 +193,61 @@ Which dimension pack Iris should use to create this world.
 - `seed`
 The seed Iris should use to create this world.
 
+```
+/iris create name=<my_world> type=overworld seed=1337
+```
+
 # Updater
 Aliases: `updater`
 Updates all chunks in the specified world.
 - `world`
 World name to update chunks.
 
+```
+/iris updater world=<my_world>
+```
+
 # Reload
 Aliases: `reload`
 Reload the configuration files.
+
+```
+/iris reload
+```
 
 # Metrics
 Aliases: `metrics`
 Get the current Metrics for your world.
 
+```
+/iris metrics
+```
+
 # Height
 Aliases: `height`
 Prints the current world height information.
 
+```
+/iris height
+```
+
 # Worlds
 Aliases: `accesslist`, `world`
 Access a list of all Iris worlds.
+
+```
+/iris world
+```
 
 # unloadWorld
 Aliases: `unloadWorld`
 Unload an Iris world.
 - `world`
 Which world to unload.
+
+```
+/iris unloadWorld world=<my_world>
+```
 
 # Teleport
 Aliases: `teleport`, `tp`
@@ -198,20 +257,20 @@ Which world to teleport to.
 - `player`
 The player to teleport to the Iris world.
 
+```
+/iris teleport world=<my_world> player=<player_name>
+```
+
 # loadWorld
 Aliases: `loadWorld`
 - `world`
 The world to load.
 
+```
+/iris loadWorld world=<my_world>
+```
+
 # Bitwise
-Aliases: `bitwise`
-Bitwise calculations
-- `value1`, `value2`, etc.
-
-
-Here's the formatted documentation for your `bitwise` command:
-
-# bitwise
 > Perform bitwise calculations between two integer values.
 {.is-info}
 
@@ -224,10 +283,15 @@ The bitwise operator: `|` (OR), `&` (AND), `^` (XOR), `<<` (left shift), `>>` (r
 - `value2`
 The second value to run calculations on.
 
-Example usage:
-`/bitwise 5 & 3  // Returns 1`
-`/bitwise 4 << 1 // Returns 8`
-`/bitwise 7 ^ 2  // Returns 5`
+```
+/bitwise 5 & 3
+```
+```
+/bitwise 4 << 1
+```
+```
+/bitwise 7 ^ 2
+```
 
 # ^world
 > An extremely unsafe command. Only do this if staff or your pack developer says so.
@@ -244,17 +308,18 @@ A required confirmation that you want to proceed.
 - `fresh`, `new`, `new-download`
 Should Iris download the pack again for you.
 
-Example usage:
-`/iris ^world <my_world> dimension:new_pack_version confirm:true`  
-`/iris update-world <my_nether_world> pack:nether_v2 fresh:true`
+```
+/iris ^world <my_world> dimension:new_pack_version confirm:true
+```  
 
 # Evacuate
 Kick everyone out of an Iris world.
 - `world`
 The world name to remove players from.
 
-Example usage:
-`/iris evacuate <my_world>`
+```
+/iris evacuate <my_world>
+```
 
 # Aura
 Aliases: `aura`
@@ -266,5 +331,6 @@ The s color value.
 - `b`
 The b color value.
 
-Example usage:
-`/iris aura h=0.5 s=1.0 b=0.8`
+```
+/iris aura h=0.5 s=1.0 b=0.8
+```
