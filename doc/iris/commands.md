@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T12:16:10.915Z
+date: 2025-07-14T12:16:21.864Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -215,7 +215,7 @@ Here's the formatted documentation for your `bitwise` command:
 > Perform bitwise calculations between two integer values.
 {.is-info}
 
-Aliases: `bitwise-calc`, `bitwise`
+Aliases: `bitwise`
 Performs various bitwise operations on two integer values.
 - `value1`
 The first value to run calculations on.
