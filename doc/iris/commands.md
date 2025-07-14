@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T11:26:18.400Z
+date: 2025-07-14T11:50:11.362Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -109,7 +109,7 @@ Edit the cave file you specify.
 Edit the jigsaw pieces you specify.
 
 # Find
-Aliases: `find`
+Aliases: `find`, `goto`
 Find something.
 `object`
 Find an object.
@@ -122,8 +122,25 @@ Find a structure.
 `poi`
 Find a point of interest.
 
+# Download
+Aliases: `dl`, `download`
+Download a project.
+- `pack`, `project`
+ The pack to download.
+- `branch` 
+ Which version to use.
+- `trim`
+ Whether or not to use a trimmed version.
+- `overwrite`, `force`
+ Whether or not to overwrite the existing pack with the one being downloaded.
 
-
+# Remove
+Aliases: `delete`, `rm`, `del`, `remove`
+Remove an Iris world.
+- `world`
+ Select the world you want to remove.
+- `delete`
+ Whether or not to delete the world from the server. (default: true)
 
 # Reload
 Aliases: `reload`
@@ -142,6 +159,18 @@ Aliases: `debug`
 Toggle the debug information in Console.
 - `on` 
 A true or false variable to turn debug on and off.
+
+# Create
+Aliases: `c`, `+`, `create`
+Create a new Iris world.
+- `name`
+The name you want for your Iris world.
+- `type`
+Which dimension pack Iris should use to create this world.
+- `seed`
+The seed Iris should use to create this world.
+
+
 
 # Updater
 Aliases: `updater`
