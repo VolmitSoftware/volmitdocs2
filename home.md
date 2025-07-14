@@ -2,11 +2,13 @@
 title: Home
 description: Volmit Software Plugin Documentation
 published: true
-date: 2025-07-13T16:13:09.164Z
+date: 2025-07-14T07:34:33.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T11:50:25.837Z
 ---
+
+![icon.webp](/brand_assets/icon.webp){.align-abstopright}
 
 ![home_header.webp](/brand_assets/home_header.webp =450x){.align-center}
 
@@ -28,3 +30,4 @@ Welcome to the Volmit Documentation for our plugins and tools. These docs are un
 - [Join Our Discord](https://discord.gg/3xxPTpT)
 - [Support Us *Get early access to new plugins, beta builds and more*](https://ko-fi.com/volmit)
 {.links-list}
+
