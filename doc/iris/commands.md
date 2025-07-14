@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T12:09:31.864Z
+date: 2025-07-14T12:09:48.281Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -211,7 +211,7 @@ Bitwise calculations
 NOT FINISHED
 
 # ^world
-> An extremely unsafe command. Only do this is staff say you may do so.
+> An extremely unsafe command. Only do this if staff say you may do so.
 {.is-warning}
 
 Aliases: `update-world`, `^world`
