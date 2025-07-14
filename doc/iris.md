@@ -2,7 +2,7 @@
 title: Iris
 description: Terrain go brrr
 published: true
-date: 2025-07-14T10:49:44.610Z
+date: 2025-07-14T10:50:02.136Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T12:27:48.482Z
@@ -13,7 +13,7 @@ dateCreated: 2025-07-13T12:27:48.482Z
 # Download Iris
 - [![polymart-icon-wide.webp](/brand_assets/polymart-icon-wide.webp =44x) Iris on Polymart](https://polymart.org/product/3623/iris-dimension-engine)
 - [![spigot-icon-wide.webp](/brand_assets/spigot-icon-wide.webp =44x) Iris on Spigot](https://www.spigotmc.org/resources/iris-dimension-engine.84586/)
-- [![bbb-icon-wide.webp](/brand_assets/bbb-icon-wide.webp =44x) Iris on Built By Bit](https://builtbybit.com/resources/iris-dimension-engine.56258/) 
+- [![bbb-icon-wide.webp](/brand_assets/bbb-icon-wide.webp =44x) Iris on BuiltByBit](https://builtbybit.com/resources/iris-dimension-engine.56258/) 
 {.links-list}
 
 # Documentation
