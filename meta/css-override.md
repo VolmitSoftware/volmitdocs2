@@ -2,13 +2,13 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-07-14T07:13:47.266Z
+date: 2025-07-14T07:17:00.478Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-14T07:13:47.266Z
 ---
 
-```CSS
+```
 .v-footer {
   visibility: hidden;
   opacity: 0;
