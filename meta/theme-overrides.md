@@ -2,7 +2,7 @@
 title: Theme Overrides
 description: 
 published: true
-date: 2025-07-14T07:21:35.416Z
+date: 2025-07-14T07:33:53.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-14T07:13:47.266Z
@@ -169,6 +169,18 @@ body {
 .v-main .contents .prismjs {
     padding: 1rem 1rem 1rem 0.7rem;
 }
+div.code-toolbar>.toolbar {
+    position: absolute;
+    top: .3em;
+    right: .2em;
+    transition: opacity .1s ease-in-out;
+    opacity: 0;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-bottom: 4px;
+    padding-left: 0px;
+}
+
 ```
 ---
 ## Head HTML Injection
