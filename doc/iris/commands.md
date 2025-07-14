@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T07:07:07.661Z
+date: 2025-07-14T07:07:31.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -115,32 +115,3 @@ Aliases: `updater`
 Updates all chunks in the specified world.
 - `world`
 World name to update chunks.
-
-
-<div class="faccordion">
-
-- ### Item 1
-  Text
-
-- ### Item 2
-  Text
-
-- ### Section 1
-  Text
-
-  - #### Section 1, item 1
-    Text
-
-  - #### Section 2
-    Text
-
-    - ##### Section 2, Item 1
-      Text
-
-    - ##### Section 2, Item 2
-      Text
-
-- ### Item 3
-  Text
-  
-</div>
