@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T07:07:31.172Z
+date: 2025-07-14T11:26:18.400Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -92,6 +92,39 @@ Identify the current Biome.
 `hand`
 Identify what's in my hand.
 
+# Edit 
+Aliases: `edit`
+Edit something.
+`region`, `r`
+Edit the region you specify.
+`dimension`, `d`
+Edit the dimension you specify.
+`biome`, `b`
+Edit the biome you specify.
+`jigsaw`, `pool`, `jigsawpool`
+Edit the pool file you specify.
+`cave`, `c`
+Edit the cave file you specify.
+`jigsawPiece`, `piece`
+Edit the jigsaw pieces you specify.
+
+# Find
+Aliases: `find`
+Find something.
+`object`
+Find an object.
+`region`
+Find a region.
+`biome`
+Find a biome.
+`structure`
+Find a structure.
+`poi`
+Find a point of interest.
+
+
+
+
 # Reload
 Aliases: `reload`
 Reload the configuration files.
@@ -115,3 +148,4 @@ Aliases: `updater`
 Updates all chunks in the specified world.
 - `world`
 World name to update chunks.
+
