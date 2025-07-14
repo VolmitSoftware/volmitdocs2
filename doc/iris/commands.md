@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T11:50:11.362Z
+date: 2025-07-14T12:09:31.864Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -16,24 +16,24 @@ dateCreated: 2025-07-13T15:59:22.969Z
 {.is-info}
 
 # Iris
-Aliases: `irs` `ir` `iris`
+Aliases: `irs`, `ir`, `iris`
 The top level argument for all Iris commands.
 
 
 # Studio
-Aliases: `s` `std` `studio`
+Aliases: `s`, `std`, `studio`
 Top argument for Iris Studio.
 - [Studio *Iris Studio Command Arguments*](/doc/iris/studio-commands)
 {.links-list}
 
 # Object
-Aliases: `o` `object`
+Aliases: `o`, `object`
 Top argument for Iris Object manipulation.
 - [Object *Iris Object Command Arguments*](/doc/iris/object-commands)
 {.links-list}
 
 # Pregenerate
-Aliases: `pregen` `pregenerate`
+Aliases: `pregen`, `pregenerate`
 Iris' built-in Pregeneration.
 Subcommands: 
 `start`
@@ -142,14 +142,6 @@ Remove an Iris world.
 - `delete`
  Whether or not to delete the world from the server. (default: true)
 
-# Reload
-Aliases: `reload`
-Reload the configuration files.
-
-# Metrics
-Aliases: `metrics`
-Get the current Metrics for your world.
-
 # Version
 Aliases: `version`
 Print the plugins current version information.
@@ -170,11 +162,81 @@ Which dimension pack Iris should use to create this world.
 - `seed`
 The seed Iris should use to create this world.
 
-
-
 # Updater
 Aliases: `updater`
 Updates all chunks in the specified world.
 - `world`
 World name to update chunks.
+
+# Reload
+Aliases: `reload`
+Reload the configuration files.
+
+# Metrics
+Aliases: `metrics`
+Get the current Metrics for your world.
+
+# Height
+Aliases: `height`
+Prints the current world height information.
+
+# Worlds
+Aliases: `accesslist`, `world`
+Access a list of all Iris worlds.
+
+# unloadWorld
+Aliases: `unloadWorld`
+Unload an Iris world.
+- `world`
+Which world to unload.
+
+# Teleport
+Aliases: `teleport`, `tp`
+Teleport to an Iris world.
+- `world`
+Which world to teleport to.
+- `player`
+The player to teleport to the Iris world.
+
+# loadWorld
+Aliases: `loadWorld`
+- `world`
+The world to load.
+
+# Bitwise
+Aliases: `bitwise`
+Bitwise calculations
+- `value1`, `value2`, etc.
+
+NOT FINISHED
+
+# ^world
+> An extremely unsafe command. Only do this is staff say you may do so.
+{.is-warning}
+
+Aliases: `update-world`, `^world`
+Updating the pack of an Iris world.
+- `world`
+The world to update.
+- `dimension`, `pack`
+The updated version to install in place of the old pack.
+- `c`, `confirm`
+A required confirmation that you want to proceed.
+- `fresh`, `new`, `new-download`
+Should Iris download the pack again for you.
+
+# Evacuate
+Kick everyone out of an Iris world.
+- `world`
+The world name to remove players from.
+
+# Aura
+Aliases: `aura`
+Set aura spin.
+- `h`
+The h color value.
+- `s`
+The s color value.
+- `b`
+The b color value.
 
