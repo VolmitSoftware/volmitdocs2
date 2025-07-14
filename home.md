@@ -2,7 +2,7 @@
 title: Home
 description: Volmit Software Plugin Documentation
 published: true
-date: 2025-07-14T07:34:33.484Z
+date: 2025-07-14T08:04:28.316Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T11:50:25.837Z
@@ -31,3 +31,11 @@ Welcome to the Volmit Documentation for our plugins and tools. These docs are un
 - [Support Us *Get early access to new plugins, beta builds and more*](https://ko-fi.com/volmit)
 {.links-list}
 
+---
+
+<div style="text-align: center;">
+  <p><strong>More RAM ≠ More Power.</strong></p>
+  <p>That’s the problem with most Minecraft hosts — they sell you on memory, but ignore the real bottleneck: CPU performance. That’s why we’ve partnered with <strong>Lilypad</strong>. Their pricing tiers scale with actual performance, allocating more cores as you upgrade — so your server grows smoothly, without the lag.</p>
+</div>
+
+[![lilypad.webp](/brand_assets/lilypad.webp =650x){.align-center}](https://lilypad.gg/volmit)
