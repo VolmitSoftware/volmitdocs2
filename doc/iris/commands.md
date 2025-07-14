@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-13T16:45:40.612Z
+date: 2025-07-14T06:58:48.569Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -18,6 +18,10 @@ dateCreated: 2025-07-13T15:59:22.969Z
 # Iris
 Aliases: `irs` `ir` `iris`
 The top level argument for all Iris commands.
+
+```
+hello
+```
 
 # Studio
 Aliases: `s` `std` `studio`
