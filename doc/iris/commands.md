@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T12:16:21.864Z
+date: 2025-07-14T12:20:00.457Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -244,10 +244,17 @@ A required confirmation that you want to proceed.
 - `fresh`, `new`, `new-download`
 Should Iris download the pack again for you.
 
+Example usage:
+`/iris ^world <my_world> dimension:new_pack_version confirm:true`  
+`/iris update-world <my_nether_world> pack:nether_v2 fresh:true`
+
 # Evacuate
 Kick everyone out of an Iris world.
 - `world`
 The world name to remove players from.
+
+Example usage:
+``/iris evacuate <my_world>`` 
 
 # Aura
 Aliases: `aura`
@@ -259,3 +266,5 @@ The s color value.
 - `b`
 The b color value.
 
+Example usage:
+`/iris aura h=0.5 s=1.0 b=0.8`
