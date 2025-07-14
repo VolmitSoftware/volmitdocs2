@@ -2,7 +2,7 @@
 title: Command Usage
 description: 
 published: true
-date: 2025-07-14T12:10:18.487Z
+date: 2025-07-14T12:16:10.915Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:59:22.969Z
@@ -208,7 +208,26 @@ Aliases: `bitwise`
 Bitwise calculations
 - `value1`, `value2`, etc.
 
-NOT FINISHED
+
+Here's the formatted documentation for your `bitwise` command:
+
+# bitwise
+> Perform bitwise calculations between two integer values.
+{.is-info}
+
+Aliases: `bitwise-calc`, `bitwise`
+Performs various bitwise operations on two integer values.
+- `value1`
+The first value to run calculations on.
+- `operator`
+The bitwise operator: `|` (OR), `&` (AND), `^` (XOR), `<<` (left shift), `>>` (right shift), or `%` (modulo).
+- `value2`
+The second value to run calculations on.
+
+Example usage:
+`/bitwise 5 & 3  // Returns 1`
+`/bitwise 4 << 1 // Returns 8`
+`/bitwise 7 ^ 2  // Returns 5`
 
 # ^world
 > An extremely unsafe command. Only do this if staff or your pack developer says so.
