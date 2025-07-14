@@ -2,7 +2,7 @@
 title: Home
 description: Volmit Software Plugin Documentation
 published: true
-date: 2025-07-14T12:27:59.439Z
+date: 2025-07-14T13:39:13.857Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T11:50:25.837Z
@@ -26,6 +26,7 @@ Welcome to the Volmit Documentation for our plugins and tools. These docs are un
 - [HoloUi Documentation *Immersive in world menus*](/doc/holoui)
 - [Adapt Documentation *Fun skills and abilities*](/doc/adapt)
 - [React Documentation *Smart server performance*](/doc/react)
+- [Shutter Documentation *Smart server performance*](/doc/shutter)
 - [Join Our Discord](https://discord.gg/3xxPTpT)
 - [Support Us *Get early access to new plugins, beta builds and more*](https://ko-fi.com/volmit)
 {.links-list}
