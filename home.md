@@ -2,7 +2,7 @@
 title: Home
 description: Volmit Software Plugin Documentation
 published: true
-date: 2025-07-14T12:20:19.110Z
+date: 2025-07-14T12:21:25.070Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T11:50:25.837Z
@@ -34,6 +34,6 @@ Welcome to the Volmit Documentation for our plugins and tools. These docs are un
 
 # Our Partners
 
-- [![lilypad-light-logo-full.png](/brand_assets/lilypad-light-logo-full.png =200x) *More RAM ≠ More Power. That’s the problem with most Minecraft hosts — they sell you on memory, but ignore the real bottleneck: CPU performance. That’s why we’ve partnered with <strong>Lilypad</strong>. Their pricing tiers scale with actual performance, allocating more cores as you upgrade — so your server grows smoothly, without the lag.*](https://lilypad.gg/volmit)
+- [![lilypad-light-logo-full.png](/brand_assets/lilypad-light-logo-full.png =200x) *More RAM does not equal More Power. That’s the problem with most Minecraft hosts — they sell you on memory, but ignore the real bottleneck: CPU performance. That’s why we’ve partnered with <strong>Lilypad</strong>. Their pricing tiers scale with actual performance, allocating more cores as you upgrade — so your server grows smoothly, without the lag.*](https://lilypad.gg/volmit)
 - [![polymart-light-logo-full.webp](/brand_assets/polymart-light-logo-full.webp =220x) *Easily our favorite plugin marketplace. Buyers can quickly migrate their spigot licenses for plugins they have already purchased, and <strong>Polymart</strong> has strong protections and great tooling and controls for Developers and Creators. A great and quickly growing selection of plugins, but also a massive library of sites, models, worlds and configs.*](https://lilypad.gg/volmit)
 {.links-list}
