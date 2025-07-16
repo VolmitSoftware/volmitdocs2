@@ -2,7 +2,7 @@
 title: Iris
 description: Terrain go brrr
 published: true
-date: 2025-07-16T14:11:26.052Z
+date: 2025-07-16T14:11:59.777Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T12:27:48.482Z
@@ -23,7 +23,7 @@ dateCreated: 2025-07-13T12:27:48.482Z
 - [Command Usage](/doc/iris/commands)
 - [Supported Plugins](/doc/iris/supported-plugins)
 - [Unsupported Plugins](/doc/iris/unsupported-plugins)
-- [Iris Integrations](/docs/iris/integrations)
+- [Iris Integrations](/doc/iris/integrations)
 {.links-list}
 
 ---
