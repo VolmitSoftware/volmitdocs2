@@ -2,14 +2,14 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-16T11:33:54.888Z
+date: 2025-07-16T11:34:44.736Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
 ---
 
 # Unsupported Plugins
-> The following plugins and datapacks are **not compatible** with Iris. In most cases, they conflict with how Iris handles world generation or server management.
+> The following plugins and datapacks are **not compatible** with Iris. In most cases, they will conflict when Iris is managing the world.
 {.is-warning}
 
 <div class="grid-unsupported">
