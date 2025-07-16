@@ -2,7 +2,7 @@
 title: Integrations
 description: 
 published: true
-date: 2025-07-16T12:08:46.445Z
+date: 2025-07-16T12:09:02.686Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:48:57.224Z
@@ -34,7 +34,7 @@ dateCreated: 2025-07-16T11:48:57.224Z
   <div class="iris-card">
     <img src="/iris_docs/integrations/placeholderapi.png" alt="placeholderapi.png">
     <h3>Placeholder API</h3>
-    <p><p>Iris supports PAPI placeholders. View them on the wiki <a href="/doc/iris_docs/placeholderapi" target="_blank" rel="noopener">(here)</a>.</p>
+    <p><p>Iris supports PAPI placeholders. View them on the wiki <a href="/doc/iris_docs/placeholderapi" target="_blank" rel="noopener">here</a>.</p>
 </p>
     <a class="iris-button" href="https://essentialsx.net/downloads.html?branch=stable" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
