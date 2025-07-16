@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-16T11:04:37.124Z
+date: 2025-07-16T11:05:16.738Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -22,13 +22,13 @@ dateCreated: 2025-07-16T11:00:07.831Z
 <div class="card-unsupported">
   <img src="https://example.com/chunky.png" alt="Chunky Plugin">
   <strong>Chunky (plugin)</strong><br>
-  Pre-generation plugins are incompatible. Instead, use our native tool: <a href="/tools/pregeneration">Pregeneration</a>
+  Pre-generation plugins are incompatible. Instead, use our native tool: <a href="/doc/iris/pregeneration">Pregeneration</a>
 </div>
 
 <div class="card-unsupported">
   <img src="https://example.com/worldguard.png" alt="WorldGuard Plugin">
   <strong>WorldGuard (plugin)</strong><br>
-  WorldGuard pre-generation is incompatible. Other features still work. Use our tool: <a href="/tools/pregeneration">Pregeneration</a>
+  WorldGuard pre-generation is incompatible. Other features still work. Use our tool: <a href="/doc/iris/pregeneration">Pregeneration</a>
 </div>
 
 <div class="card-unsupported">
