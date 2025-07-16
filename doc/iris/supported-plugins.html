@@ -2,16 +2,35 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-16T09:52:03.922Z
+date: 2025-07-16T09:54:38.665Z
 tags: 
 editor: code
 dateCreated: 2025-07-16T09:32:49.528Z
 -->
 
+<!-- Hover Effect Styles -->
+<style>
+  .plugin-card {
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    width: 280px;
+    padding: 16px;
+    color: white;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .plugin-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+  }
+</style>
+
+<!-- Plugin Grid -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start;">
 
-  <!-- Plugin Card -->
-  <div style="background-color: #1e1e1e; border-radius: 8px; width: 280px; padding: 16px; color: white; box-shadow: 0 0 8px rgba(0,0,0,0.3);">
+  <!-- Card 1 -->
+  <div class="plugin-card">
     <div style="text-align: center;">
       <img src="/myworlds.png" alt="myworlds.png" style="padding: 8px; max-width: 100%; height: auto;">
       <h3>MyWorlds</h3>
@@ -19,7 +38,8 @@ dateCreated: 2025-07-16T09:32:49.528Z
     <p><a href="https://www.spigotmc.org/resources/myworlds.39594/" target="_blank" style="color: #00c8ff;">MyWorlds</a> is our suggested world manager plugin. It properly calls Native Minecraft Source functions we need to run our plugin. See also their <a href="https://wiki.traincarts.net/index.php/MyWorlds" target="_blank" style="color: #00c8ff;">documentation</a>.</p>
   </div>
 
-  <div style="background-color: #1e1e1e; border-radius: 8px; width: 280px; padding: 16px; color: white; box-shadow: 0 0 8px rgba(0,0,0,0.3);">
+  <!-- Card 2 -->
+  <div class="plugin-card">
     <div style="text-align: center;">
       <img src="/essentialsx.png" alt="essentialsx.png" style="padding: 8px; max-width: 100%; height: auto;">
       <h3>EssentialsX</h3>
@@ -27,7 +47,8 @@ dateCreated: 2025-07-16T09:32:49.528Z
     <p><a href="https://essentialsx.net/downloads.html?branch=stable" target="_blank" style="color: #00c8ff;">EssentialsX</a> is another way of getting to other worlds on your server.</p>
   </div>
 
-  <div style="background-color: #1e1e1e; border-radius: 8px; width: 280px; padding: 16px; color: white; box-shadow: 0 0 8px rgba(0,0,0,0.3);">
+  <!-- Card 3 -->
+  <div class="plugin-card">
     <div style="text-align: center;">
       <img src="/leaf's-rtp.png" alt="leaf's-rtp.png" style="padding: 8px; max-width: 100%; height: auto;">
       <h3>Leaf's RTP</h3>
@@ -35,7 +56,8 @@ dateCreated: 2025-07-16T09:32:49.528Z
     <p>Random teleportation within your Iris worlds, without crashes. <a href="https://www.spigotmc.org/resources/rtp.94812/" target="_blank" style="color: #00c8ff;">RTP</a></p>
   </div>
 
-  <div style="background-color: #1e1e1e; border-radius: 8px; width: 280px; padding: 16px; color: white; box-shadow: 0 0 8px rgba(0,0,0,0.3);">
+  <!-- Card 4 -->
+  <div class="plugin-card">
     <div style="text-align: center;">
       <img src="/jake's-rtp.png" alt="jake's-rtp.png" style="padding: 8px; max-width: 100%; height: auto;">
       <h3>Jake's RTP</h3>
@@ -43,7 +65,8 @@ dateCreated: 2025-07-16T09:32:49.528Z
     <p>Random teleportation within your Iris worlds, without crashes. <a href="https://www.spigotmc.org/resources/jakes-rtp.80201/" target="_blank" style="color: #00c8ff;">Jake's RTP</a></p>
   </div>
 
-  <div style="background-color: #1e1e1e; border-radius: 8px; width: 280px; padding: 16px; color: white; box-shadow: 0 0 8px rgba(0,0,0,0.3);">
+  <!-- Card 5 -->
+  <div class="plugin-card">
     <div style="text-align: center;">
       <img src="/ultra-regions.png" alt="ultra-regions.png" style="padding: 8px; max-width: 100%; height: auto;">
       <h3>UltraRegions</h3>
