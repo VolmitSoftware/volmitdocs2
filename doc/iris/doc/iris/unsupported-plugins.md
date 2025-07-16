@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-16T11:05:16.738Z
+date: 2025-07-16T11:07:40.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-16T11:00:07.831Z
 > The following plugins and datapacks are **not compatible** with Iris. In most cases, they conflict with how Iris handles world generation or server management.
 {.is-warning}
 
-<div class="grid">
+<div class="grid-unsupported">
 <div class="card-unsupported">
   <img src="https://example.com/terralith.png" alt="Terralith Datapack">
   <strong>Terralith (datapack)</strong><br>
@@ -20,37 +20,37 @@ dateCreated: 2025-07-16T11:00:07.831Z
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/chunky.png" alt="Chunky Plugin">
+  <img src="https://example.com/chunky.png" alt="Chunky">
   <strong>Chunky (plugin)</strong><br>
   Pre-generation plugins are incompatible. Instead, use our native tool: <a href="/doc/iris/pregeneration">Pregeneration</a>
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/worldguard.png" alt="WorldGuard Plugin">
+  <img src="https://example.com/worldguard.png" alt="WorldGuard">
   <strong>WorldGuard (plugin)</strong><br>
   WorldGuard pre-generation is incompatible. Other features still work. Use our tool: <a href="/doc/iris/pregeneration">Pregeneration</a>
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/ewg.png" alt="EWG Plugin">
+  <img src="https://example.com/ewg.png" alt="EWG">
   <strong>EWG (plugin)</strong><br>
   EpicWorldGenerator is incompatible for main worlds. It overwrites the world Iris manages.
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/rwg.png" alt="RWG Plugin">
+  <img src="https://example.com/rwg.png" alt="RWG">
   <strong>RWG (plugin)</strong><br>
   RealisticWorldGenerator is incompatible for main worlds. It overwrites the world Iris manages.
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/plugmanx.png" alt="PlugManX Plugin">
+  <img src="https://example.com/plugmanx.png" alt="PlugManX">
   <strong>PlugManX (plugin)</strong><br>
   Hotload plugins are incompatible if they load Iris. Might work with server off, but not guaranteed.
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/regionmanager.png" alt="Region Manager Plugin">
+  <img src="https://example.com/regionmanager.png" alt="Region Manager">
   <strong>Region Manager (plugin)</strong><br>
   Not compatible with Iris. No current alternatives.
 </div>
