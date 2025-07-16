@@ -2,7 +2,7 @@
 title: Integrations
 description: 
 published: true
-date: 2025-07-16T12:15:18.705Z
+date: 2025-07-16T12:26:08.301Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:48:57.224Z
@@ -11,11 +11,12 @@ dateCreated: 2025-07-16T11:48:57.224Z
 <div class="iris-grid">
 
   <div class="iris-card">
-    <img src="/iris_docs/integrations/mythicmobs.png" alt="mythicmobs.png">
-    <h3>MythicMobs</h3>
-    <p>Iris can spawn entities in its world using MythicMobs. View it on the wiki <a href="/doc/iris_docs/compatible/mythicmobs" target="_blank" rel="noopener">here</a>.</p>
-    <a class="iris-button" href="https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/" target="_blank" rel="noopener">Visit Plugin</a>
-  </div>
+  <img class="white-logo" src="/iris_docs/integrations/mythicmobs.png" alt="mythicmobs.png">
+  <h3>MythicMobs</h3>
+  <p>Iris can spawn entities in its world using MythicMobs. View it on the wiki <a href="/doc/iris_docs/compatible/mythicmobs" target="_blank" rel="noopener">here</a>.</p>
+  <a class="iris-button" href="https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/" target="_blank" rel="noopener">Visit Plugin</a>
+</div>
+
 
   <div class="iris-card">
     <img src="/iris_docs/integrations/itemsadder.png" alt="itemsadder.webp">
