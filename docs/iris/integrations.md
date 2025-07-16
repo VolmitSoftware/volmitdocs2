@@ -2,7 +2,7 @@
 title: Integrations
 description: 
 published: true
-date: 2025-07-16T12:11:07.818Z
+date: 2025-07-16T12:13:52.018Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:48:57.224Z
@@ -41,7 +41,7 @@ dateCreated: 2025-07-16T11:48:57.224Z
   <div class="iris-card">
     <img src="/iris_docs/integrations/mmoitems.png" alt="mmoitems.png">
     <h3>MMOItems</h3>
-    <p></p>
+    <p>Add custom items to Iris loot tables. View the wiki <a href="/doc/iris_docs/compatible/mmoitems" target="_blank" rel="noopener">here</a>.</p>
     <a class="iris-button" href="https://www.spigotmc.org/resources/mmoitems.39267/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
 
