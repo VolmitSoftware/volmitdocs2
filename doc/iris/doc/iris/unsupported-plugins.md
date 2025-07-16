@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-16T11:31:18.737Z
+date: 2025-07-16T11:31:59.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -14,7 +14,7 @@ dateCreated: 2025-07-16T11:00:07.831Z
 
 <div class="grid-unsupported">
 <div class="card-unsupported">
-  <img src="https://example.com/terralith.png" alt="Terralith Datapack">
+  <img src="/iris_docs/unsupported_plugins/terralith.png" alt="Terralith Datapack">
   <strong>Terralith (datapack)</strong><br>
   No alternative available. Ask the developer to add compatibility if you need it.
 </div>
