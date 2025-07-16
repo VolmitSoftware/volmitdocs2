@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-16T11:26:18.043Z
+date: 2025-07-16T11:26:34.174Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
