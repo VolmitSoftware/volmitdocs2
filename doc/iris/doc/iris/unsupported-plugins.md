@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-16T11:07:40.310Z
+date: 2025-07-16T11:23:15.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -32,27 +32,23 @@ dateCreated: 2025-07-16T11:00:07.831Z
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/ewg.png" alt="EWG">
+  <img src="/iris_docs/unsupported_plugins/ewg.webp" alt="EWG">
   <strong>EWG (plugin)</strong><br>
   EpicWorldGenerator is incompatible for main worlds. It overwrites the world Iris manages.
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/rwg.png" alt="RWG">
+  <img src="/iris_docs/unsupported_plugins/rwg.jpg" alt="RWG">
   <strong>RWG (plugin)</strong><br>
   RealisticWorldGenerator is incompatible for main worlds. It overwrites the world Iris manages.
 </div>
 
 <div class="card-unsupported">
-  <img src="https://example.com/plugmanx.png" alt="PlugManX">
+  <img src="/iris_docs/unsupported_plugins/plugmanx.png" alt="PlugManX">
   <strong>PlugManX (plugin)</strong><br>
   Hotload plugins are incompatible if they load Iris. Might work with server off, but not guaranteed.
 </div>
 
-<div class="card-unsupported">
-  <img src="https://example.com/regionmanager.png" alt="Region Manager">
-  <strong>Region Manager (plugin)</strong><br>
-  Not compatible with Iris. No current alternatives.
-</div>
+
 
 </div>
