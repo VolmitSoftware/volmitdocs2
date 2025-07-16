@@ -2,7 +2,7 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-16T10:12:16.830Z
+date: 2025-07-16T10:12:50.694Z
 tags: 
 editor: code
 dateCreated: 2025-07-16T09:32:49.528Z
@@ -80,16 +80,13 @@ dateCreated: 2025-07-16T09:32:49.528Z
             text-decoration: underline;
         }
         
-        /* Remove link styling from the card itself */
-        .plugin-card:visited {
-            color: white;
-        }
+
     </style>
 </head>
 <body>
     <div class="plugin-container">
         <!-- MyWorlds Card -->
-        <a href="https://www.spigotmc.org/resources/myworlds.39594/" target="_blank" class="plugin-card">
+        <div class="plugin-card" onclick="window.open('https://www.spigotmc.org/resources/myworlds.39594/', '_blank')">
             <div class="plugin-header">
                 <img src="/myworlds.png" alt="MyWorlds">
                 <h3>MyWorlds</h3>
@@ -97,10 +94,10 @@ dateCreated: 2025-07-16T09:32:49.528Z
             <div class="plugin-description">
                 Our suggested world manager plugin. It properly calls Native Minecraft Source functions we need to run our plugin. See also their <a href="https://wiki.traincarts.net/index.php/MyWorlds" target="_blank" onclick="event.stopPropagation();">documentation</a>.
             </div>
-        </a>
+        </div>
 
         <!-- EssentialsX Card -->
-        <a href="https://essentialsx.net/downloads.html?branch=stable" target="_blank" class="plugin-card">
+        <div class="plugin-card" onclick="window.open('https://essentialsx.net/downloads.html?branch=stable', '_blank')">
             <div class="plugin-header">
                 <img src="/essentialsx.png" alt="EssentialsX">
                 <h3>EssentialsX</h3>
@@ -108,10 +105,10 @@ dateCreated: 2025-07-16T09:32:49.528Z
             <div class="plugin-description">
                 Another way of getting to other worlds on your server.
             </div>
-        </a>
+        </div>
 
         <!-- Leaf's RTP Card -->
-        <a href="https://www.spigotmc.org/resources/rtp.94812/" target="_blank" class="plugin-card">
+        <div class="plugin-card" onclick="window.open('https://www.spigotmc.org/resources/rtp.94812/', '_blank')">
             <div class="plugin-header">
                 <img src="/leaf's-rtp.png" alt="Leaf's RTP">
                 <h3>Leaf's RTP</h3>
@@ -119,10 +116,10 @@ dateCreated: 2025-07-16T09:32:49.528Z
             <div class="plugin-description">
                 Random teleportation within your Iris worlds, without crashes.
             </div>
-        </a>
+        </div>
 
         <!-- Jake's RTP Card -->
-        <a href="https://www.spigotmc.org/resources/jakes-rtp.80201/" target="_blank" class="plugin-card">
+        <div class="plugin-card" onclick="window.open('https://www.spigotmc.org/resources/jakes-rtp.80201/', '_blank')">
             <div class="plugin-header">
                 <img src="/jake's-rtp.png" alt="Jake's RTP">
                 <h3>Jake's RTP</h3>
@@ -130,10 +127,10 @@ dateCreated: 2025-07-16T09:32:49.528Z
             <div class="plugin-description">
                 Random teleportation within your Iris worlds, without crashes.
             </div>
-        </a>
+        </div>
 
         <!-- UltraRegions Card -->
-        <a href="https://www.spigotmc.org/resources/ultra-regions.58317/" target="_blank" class="plugin-card">
+        <div class="plugin-card" onclick="window.open('https://www.spigotmc.org/resources/ultra-regions.58317/', '_blank')">
             <div class="plugin-header">
                 <img src="/ultra-regions.png" alt="UltraRegions">
                 <h3>UltraRegions</h3>
@@ -141,7 +138,7 @@ dateCreated: 2025-07-16T09:32:49.528Z
             <div class="plugin-description">
                 Another manager for your worlds which works. MyWorlds does a slightly better job, but their devs are working on better compatibility!
             </div>
-        </a>
+        </div>
     </div>
 </body>
 </html>
