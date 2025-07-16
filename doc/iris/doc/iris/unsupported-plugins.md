@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-16T11:00:07.831Z
+date: 2025-07-16T11:04:08.115Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -11,33 +11,6 @@ dateCreated: 2025-07-16T11:00:07.831Z
 # Unsupported Plugins
 > The following plugins and datapacks are **not compatible** with Iris. In most cases, they conflict with how Iris handles world generation or server management.
 {.is-warning}
-
-
-<style>
-.grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-  justify-content: flex-start;
-}
-.card {
-  background-color: #1e1e1e;
-  border-radius: 8px;
-  width: 280px;
-  padding: 16px;
-  color: white;
-  box-shadow: 0 0 8px rgba(0,0,0,0.3);
-}
-.card img {
-  width: 100%;
-  border-radius: 4px;
-  margin-bottom: 12px;
-}
-.card a {
-  color: #00c8ff;
-  text-decoration: none;
-}
-</style>
 
 <div class="grid">
 <div class="card">
