@@ -2,7 +2,7 @@
 title: Integrations
 description: 
 published: true
-date: 2025-07-16T12:10:15.708Z
+date: 2025-07-16T12:11:07.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:48:57.224Z
@@ -21,7 +21,7 @@ dateCreated: 2025-07-16T11:48:57.224Z
     <img src="/iris_docs/integrations/itemsadder.png" alt="itemsadder.webp">
     <h3>ItemsAdder</h3>
     <p>Custom Items in Iris world. See their documentation <a href="https://itemsadder.devs.beer/compatibility-with-other-plugins/compatible/iris" target="_blank" rel="noopener">here</a>.</p>
-    <a class="iris-button" href="https://www.spigotmc.org/resources/placeholderapi.6245/" target="_blank" rel="noopener">Visit Plugin</a>
+    <a class="iris-button" href="https://www.spigotmc.org/resources/%E2%9C%A8itemsadder%E2%AD%90emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
 
   <div class="iris-card">
@@ -35,14 +35,14 @@ dateCreated: 2025-07-16T11:48:57.224Z
     <img src="/iris_docs/integrations/placeholderapi.png" alt="placeholderapi.png">
     <h3>Placeholder API</h3>
     <p><p>Iris supports PAPI placeholders. View them on the wiki <a href="/doc/iris_docs/compatible/placeholderapi" target="_blank" rel="noopener">here</a>.</p>
-    <a class="iris-button" href="https://essentialsx.net/downloads.html?branch=stable" target="_blank" rel="noopener">Visit Plugin</a>
+    <a class="iris-button" href="https://www.spigotmc.org/resources/placeholderapi.6245/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
 
   <div class="iris-card">
     <img src="/iris_docs/integrations/mmoitems.png" alt="mmoitems.png">
     <h3>MMOItems</h3>
     <p></p>
-    <a class="iris-button" href="https://www.spigotmc.org/resources/rtp.94812/" target="_blank" rel="noopener">Visit Plugin</a>
+    <a class="iris-button" href="https://www.spigotmc.org/resources/mmoitems.39267/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
 
 </div>
