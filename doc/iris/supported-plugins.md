@@ -2,52 +2,54 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-16T10:57:28.165Z
+date: 2025-07-16T11:03:20.711Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T09:32:49.528Z
 ---
 
-[![myworlds.png](/iris_docs/myworlds.png)
+<div class="iris-grid">
 
-### MyWorlds
+<a class="iris-card" href="https://www.spigotmc.org/resources/myworlds.39594/" target="_blank" rel="noopener noreferrer">
+  <img src="/iris_docs/myworlds.png" alt="myworlds.png">
+  <h3>MyWorlds</h3>
+  <p>MyWorlds is our suggested world manager plugin. It properly calls Native Minecraft Source functions we need to run our plugin.</p>
+</a>
 
-MyWorlds is our suggested world manager plugin. It properly calls Native Minecraft Source functions we need to run our plugin.
+<a class="iris-card" href="https://modrinth.com/plugin/multiverse-core" target="_blank" rel="noopener noreferrer">
+  <img src="/iris_docs/multiverse.webp" alt="multiverse.webp">
+  <h3>Multiverse</h3>
+  <p>Multiverse is a (newly) supported world management plugin. Requires modification before it can be used.</p>
+</a>
 
-](https://www.spigotmc.org/resources/myworlds.39594/)[![multiverse.webp](/iris_docs/multiverse.webp)
+<a class="iris-card" href="https://www.spigotmc.org/resources/phantomworlds.84099/" target="_blank" rel="noopener noreferrer">
+  <img src="/iris_docs/phantomworlds.png" alt="phantomworlds.png">
+  <h3>PhantomWorlds</h3>
+  <p>PhantomWorlds is another suggested World Management plugin. Barebones, so MyWorlds is still suggested over it.</p>
+</a>
 
-### Multiverse
+<a class="iris-card" href="https://essentialsx.net/downloads.html?branch=stable" target="_blank" rel="noopener noreferrer">
+  <img src="/iris_docs/essentialsx.png" alt="essentialsx.png">
+  <h3>EssentialsX</h3>
+  <p>EssentialsX is another way of getting to other worlds on your server.</p>
+</a>
 
-Multiverse is a (newly) supported world management plugin. Requires modification before it can be used.
+<a class="iris-card" href="https://www.spigotmc.org/resources/rtp.94812/" target="_blank" rel="noopener noreferrer">
+  <img src="/iris_docs/leaf's-rtp.png" alt="leaf's-rtp.png">
+  <h3>Leaf's RTP</h3>
+  <p>Random teleportation within your Iris worlds, without crashes.</p>
+</a>
 
-](https://modrinth.com/plugin/multiverse-core)[![phantomworlds.png](/iris_docs/phantomworlds.png)
+<a class="iris-card" href="https://www.spigotmc.org/resources/jakes-rtp.80201/" target="_blank" rel="noopener noreferrer">
+  <img src="/iris_docs/jake's-rtp.png" alt="jake's-rtp.png">
+  <h3>Jake's RTP</h3>
+  <p>Random teleportation within your Iris worlds, without crashes.</p>
+</a>
 
-### PhantomWorlds
+<a class="iris-card" href="https://www.spigotmc.org/resources/ultra-regions.58317/" target="_blank" rel="noopener noreferrer">
+  <img src="/iris_docs/ultra-regions.png" alt="ultra-regions.png">
+  <h3>UltraRegions</h3>
+  <p>Another manager for your worlds which works. MyWorlds does a slightly better job, but their devs are working on better compatibility!</p>
+</a>
 
-PhantomWorlds is another suggested World Management plugin. Barebones, so MyWorlds is still suggested over it.
-
-](https://www.spigotmc.org/resources/phantomworlds.84099/)[![essentialsx.png](/iris_docs/essentialsx.png)
-
-### EssentialsX
-
-EssentialsX is another way of getting to other worlds on your server.
-
-](https://essentialsx.net/downloads.html?branch=stable)[![leaf's-rtp.png](/iris_docs/leaf's-rtp.png)
-
-### Leaf's RTP
-
-Random teleportation within your Iris worlds, without crashes.
-
-](https://www.spigotmc.org/resources/rtp.94812/)[![jake's-rtp.png](/iris_docs/jake's-rtp.png)
-
-### Jake's RTP
-
-Random teleportation within your Iris worlds, without crashes.
-
-](https://www.spigotmc.org/resources/jakes-rtp.80201/)[![ultra-regions.png](/iris_docs/ultra-regions.png)
-
-### UltraRegions
-
-Another manager for your worlds which works. MyWorlds does a slightly better job, but their devs are working on better compatibility!
-
-](https://www.spigotmc.org/resources/ultra-regions.58317/)
+</div>
