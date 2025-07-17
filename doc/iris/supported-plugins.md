@@ -2,7 +2,7 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-16T11:45:18.129Z
+date: 2025-07-17T17:25:18.054Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T09:32:49.528Z
@@ -58,5 +58,10 @@ dateCreated: 2025-07-16T09:32:49.528Z
     <p>Another manager for your worlds which works. MyWorlds does a slightly better job, but their devs are working on better compatibility!</p>
     <a class="iris-button" href="https://www.spigotmc.org/resources/ultra-regions.58317/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
+      <div class="iris-card">
+    <img src="/iris_docs/realisticseasons.png" alt="realisticseasons.png">
+    <h3>RealisticSeasons</h3>
+    <p>Add Seasons to your ever changing world. Spring, Summer, Fall, Winter. All supported in Iris.</p>
+    <a class="iris-button" href="https://www.spigotmc.org/resources/realisticseasons-1-16-3-1-21-7-seasons-in-your-minecraft-world-with-temperature-and-calendar.93275/" target="_blank" rel="noopener">Visit Plugin</a>
 
 </div>
