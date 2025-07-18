@@ -2,7 +2,7 @@
 title: Iris
 description: Terrain go brrr
 published: true
-date: 2025-07-16T14:11:59.777Z
+date: 2025-07-18T19:03:38.594Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T12:27:48.482Z
@@ -30,5 +30,5 @@ dateCreated: 2025-07-13T12:27:48.482Z
 
 ## Looking for Iris Studio?
 
-- [Iris Studio *Create your own dimensions*](/guide/studio)
+- [Iris Studio *Create your own dimensions*](/doc/iris/iris-studio)
 {.links-list}
