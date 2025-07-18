@@ -2,7 +2,7 @@
 title: Integrations
 description: 
 published: true
-date: 2025-07-16T12:30:14.744Z
+date: 2025-07-18T18:35:10.859Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:48:57.224Z
@@ -46,4 +46,10 @@ dateCreated: 2025-07-16T11:48:57.224Z
     <a class="iris-button" href="https://www.spigotmc.org/resources/mmoitems.39267/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
 
+</div>
+<div class="links-list">
+  <a href="/doc/iris/integrations" class="next-link">
+    <span class="link-text">Next</span>
+    <span class="link-description">Integrations</span>
+  </a>
 </div>
