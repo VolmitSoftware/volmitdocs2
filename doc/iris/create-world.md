@@ -2,7 +2,7 @@
 title: Create a new world with Iris
 description: 
 published: true
-date: 2025-07-13T15:09:27.313Z
+date: 2025-07-18T18:06:10.699Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T13:24:16.611Z
@@ -19,7 +19,8 @@ Before beginning, ensure you have:
 - ✅ **Iris installed** on your Spigot/Paper server. Grab the latest jar from [Spigot](https://www.spigotmc.org/resources/iris-world-gen-the-dimension-engine.84586/), [BuiltByBit](https://builtbybit.com/resources/iris-dimension-engine.56258/?ref=discover), or [Polymart](https://polymart.org/product/3623/iris-dimension-engine).
 - ✅ **Sufficient RAM** (at least 6GB recommended for large worlds).  
 - ✅ **Proper permission manager**: We recommend [LuckPerms](https://luckperms.net/).
-- ✅ **Proper permissions** (OP or `iris.world.create` permission).  
+- ✅ **Proper permissions** (OP or `iris.world.create` permission). 
+- ✅ **A supported server jar**: We only recommend [Paper](https://papermc.io) or [Purpur](https://purpurmc.org). Spigot is supported but some functions may work unexpectedly in comparison to Paper/Purpur.
 
 > Do not give yourself the `iris.*` or `*` permission, as this can cause conflicts.
 {.is-warning}
