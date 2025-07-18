@@ -2,7 +2,7 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-18T18:22:05.726Z
+date: 2025-07-18T18:26:03.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T09:32:49.528Z
@@ -60,8 +60,8 @@ dateCreated: 2025-07-16T09:32:49.528Z
 </div>
 
 <div class="links-list">
-  <a href="/doc/iris/replacing-main-world" class="next-link">
+  <a href="/doc/iris/unsupported-plugins" class="next-link">
     <span class="link-text">Next</span>
-    <span class="link-description">Replacing Your Main World</span>
+    <span class="link-description">Unsupported Plugins</span>
   </a>
 </div>
