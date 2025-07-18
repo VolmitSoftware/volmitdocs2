@@ -2,14 +2,14 @@
 title: Mythic Mobs
 description: 
 published: true
-date: 2025-07-18T18:48:10.450Z
+date: 2025-07-18T18:51:11.931Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T18:48:10.450Z
 ---
 
 # MythicMobs Integration
-> Support is exclusive to MythicMobs 5. If you have an older version this wiki may be inaccurate.
+> Support is exclusive to MythicMobs 5 and above. If you have an older version this wiki may be inaccurate.
 {.is-info}
 
 - [Download MythicMobs Here](https://mythiccraft.io/index.php?pages/official-mythicmobs-download/&version=4.12.0)
