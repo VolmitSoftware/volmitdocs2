@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-18T18:35:26.296Z
+date: 2025-07-18T18:36:10.143Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -52,7 +52,7 @@ dateCreated: 2025-07-16T11:00:07.831Z
 <div class="links-list">
   <a href="/doc/iris/integrations" class="next-link">
     <span class="link-text">Next</span>
-    <span class="link-description">Integrations</span>
+    <span class="link-description">Iris Integrations</span>
   </a>
 
 </div>
