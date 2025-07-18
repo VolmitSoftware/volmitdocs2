@@ -2,7 +2,7 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-18T18:20:49.659Z
+date: 2025-07-18T18:21:24.385Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T09:32:49.528Z
