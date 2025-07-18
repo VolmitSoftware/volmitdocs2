@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-16T11:36:17.371Z
+date: 2025-07-18T18:32:46.799Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -49,6 +49,10 @@ dateCreated: 2025-07-16T11:00:07.831Z
   Hotload plugins are incompatible if they load Iris. Might work with server off, but not guaranteed.
 </div>
 
-
+<div class="links-list">
+  <a href="/doc/iris/unsupported-plugins" class="next-link">
+    <span class="link-text">Next</span>
+    <span class="link-description">Unsupported Plugins</span>
+  </a>
 
 </div>
