@@ -2,7 +2,7 @@
 title: Mythic Mobs
 description: 
 published: true
-date: 2025-07-18T18:54:20.186Z
+date: 2025-07-18T19:04:11.465Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T18:48:10.450Z
@@ -32,7 +32,7 @@ dateCreated: 2025-07-18T18:48:10.450Z
 
 As seen here, to make Iris spawn a mythic mob, you'll need to create a new Iris entity file with specialType, where you prefix the name with MythicMobs: 
 
-> VSCode will autocomplete names installed on the server if you are using [Iris Studio](/doc/iris_docs/iris-studio), too!
+> VSCode will autocomplete names installed on the server if you are using [Iris Studio](/doc/iris/iris-studio), too!
 
 # MythicMobs RandomSpawns
 See the MythicMobs wiki:
