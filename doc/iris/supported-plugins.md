@@ -2,7 +2,7 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-20T14:55:14.572Z
+date: 2025-07-20T15:01:59.333Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T09:32:49.528Z
@@ -35,15 +35,9 @@ dateCreated: 2025-07-16T09:32:49.528Z
   </div>
   <div class="iris-card">
     <img src="/iris_docs/leaf's-rtp.png" alt="leaf's-rtp.png">
-    <h3>Leaf's RTP</h3>
-    <p>Random teleportation within your Iris worlds, without crashes.</p>
+    <h3>RTP Plugins</h3>
+    <p>All RTP plugins are supported unless on the <a href="/doc/iris/unsupported-plugins" target="_blank" rel="noopener">Unsupported Plugins </a>page.</p>
     <a class="iris-button" href="https://www.spigotmc.org/resources/rtp.94812/" target="_blank" rel="noopener">Visit Plugin</a>
-  </div>
-  <div class="iris-card">
-    <img src="/iris_docs/jake's-rtp.png" alt="jake's-rtp.png">
-    <h3>Jake's RTP</h3>
-    <p>Random teleportation within your Iris worlds, without crashes.</p>
-    <a class="iris-button" href="https://www.spigotmc.org/resources/jakes-rtp.80201/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
   <div class="iris-card">
     <img src="/iris_docs/ultra-regions.png" alt="ultra-regions.png">
