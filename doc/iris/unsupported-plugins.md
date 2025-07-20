@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-20T14:52:24.943Z
+date: 2025-07-20T15:00:52.142Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -15,8 +15,8 @@ dateCreated: 2025-07-16T11:00:07.831Z
 <div class="grid-unsupported">
 <div class="card-unsupported">
   <img src="/iris_docs/unsupported_plugins/chunky.webp" alt="Chunky">
-  <strong>Chunky</strong><br>
-  Pre-generation plugins are incompatible. Use our built-in pregeneration instead.
+  <strong>Pregeneration Plugins</strong><br>
+  Pre-generation plugins are incompatible. Use our built-in pregeneration instead. Examples: Chunky, Fast Chunk Pregenerator, Chunker, etc.
 </div>
 
 <div class="card-unsupported">
