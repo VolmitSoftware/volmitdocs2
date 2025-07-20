@@ -2,7 +2,7 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-20T15:01:59.333Z
+date: 2025-07-20T15:08:46.433Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T09:32:49.528Z
@@ -36,13 +36,13 @@ dateCreated: 2025-07-16T09:32:49.528Z
   <div class="iris-card">
     <img src="/iris_docs/leaf's-rtp.png" alt="leaf's-rtp.png">
     <h3>RTP Plugins</h3>
-    <p>All RTP plugins are supported unless on the <a href="/doc/iris/unsupported-plugins" target="_blank" rel="noopener">Unsupported Plugins </a>page.</p>
+    <p>All RTP plugins are supported unless on the <a href="/doc/iris/unsupported-plugins" target="_blank" rel="noopener">Unsupported Plugins </a>page. BetterRTP requires extra configuration. View their <a href="https://github.com/RonanPlugins/BetterRTP/wiki/Config#customworlds" target="_blank" rel="noopener">Wiki </a>for more info.</p>
     <a class="iris-button" href="https://www.spigotmc.org/resources/rtp.94812/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
   <div class="iris-card">
     <img src="/iris_docs/ultra-regions.png" alt="ultra-regions.png">
     <h3>UltraRegions</h3>
-    <p>Another manager for your worlds which works. MyWorlds does a slightly better job, but their devs are working on better compatibility!</p>
+    <p>Another manager for your worlds which works.</p>
     <a class="iris-button" href="https://www.spigotmc.org/resources/ultra-regions.58317/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
   <div class="iris-card">
