@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-20T15:00:52.142Z
+date: 2025-07-20T15:00:59.878Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -21,7 +21,7 @@ dateCreated: 2025-07-16T11:00:07.831Z
 
 <div class="card-unsupported">
   <img src="/iris_docs/unsupported_plugins/worldguard.png" alt="WorldGuard">
-  <strong>World Guard</strong><br>
+  <strong>WorldGuard</strong><br>
   WorldGuard pre-generation is incompatible. Other features still work.
 </div>
 
