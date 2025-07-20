@@ -2,7 +2,7 @@
 title: Iris
 description: Terrain go brrr
 published: true
-date: 2025-07-18T19:03:38.594Z
+date: 2025-07-20T14:41:08.057Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T12:27:48.482Z
@@ -21,11 +21,14 @@ dateCreated: 2025-07-13T12:27:48.482Z
 - [Create a new Iris World](/doc/iris/create-world)
 - [Replacing your Main World](/doc/iris/replacing-main-world)
 - [Command Usage](/doc/iris/commands)
+{.links-list}
+
+
+## Supported, Unsupported, and Integrations
 - [Supported Plugins](/doc/iris/supported-plugins)
 - [Unsupported Plugins](/doc/iris/unsupported-plugins)
 - [Iris Integrations](/doc/iris/integrations)
 {.links-list}
-
 ---
 
 ## Looking for Iris Studio?
