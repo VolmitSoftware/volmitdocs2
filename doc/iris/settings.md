@@ -2,7 +2,7 @@
 title: settings.json
 description: 
 published: true
-date: 2025-07-25T17:44:59.561Z
+date: 2025-07-25T17:48:46.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-21T13:12:59.853Z
@@ -250,8 +250,5 @@ dateCreated: 2025-07-21T13:12:59.853Z
 * `maxConcurrency`: `256`
   Max number of concurrent generation tasks.
 
----
-
-If you'd like this output exported to a `.md` file or converted into HTML for web display, let me know.
 
 
