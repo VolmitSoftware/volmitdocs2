@@ -2,7 +2,7 @@
 title: Home
 description: Volmit Software Plugin Documentation
 published: true
-date: 2025-09-13T19:00:37.207Z
+date: 2025-09-13T19:03:37.483Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T11:50:25.837Z
@@ -14,8 +14,8 @@ dateCreated: 2025-07-13T11:50:25.837Z
 
 ![home-banner.webp](/brand_assets/home-banner.webp){.align-center}
 
-## Welcome to the Volmit Documentation for our plugins and tools. These docs are under construction, and may not be complete! If the documentation you seek is not here, you can visit our old docs at <kbd><a href="https://old.docs.volmit.com" style="color:black;font-weight:bold">old.docs.volmit.com</a></kbd> or by clicking the button below:
-- [⚠️ Old Docs](https://old.docs.volmit.com)
+## Welcome to the Volmit Documentation for our plugins and tools. These docs are under construction, and may not be complete! If the documentation you seek is not here, you can visit our old docs at <kbd><a href="https://docs.old.volmit.com" style="color:black;font-weight:bold">docs.old.volmit.com</a></kbd> or by clicking the button below:
+- [⚠️ Old Docs](https://docs.old.volmit.com)
 {.links-list}
 
 ---
