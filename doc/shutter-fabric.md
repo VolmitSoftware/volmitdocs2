@@ -2,7 +2,7 @@
 title: Shutter for Fabric
 description: A fast and lightweight cinematography mod.
 published: true
-date: 2025-09-22T22:26:38.701Z
+date: 2025-09-22T22:27:03.350Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T14:25:37.932Z
@@ -20,8 +20,8 @@ Shutters core functionality is in stark contrast to mods like ReplayMod, which c
 
 
 # Documentation
-- [Installation](/installation) 
-- [Commands](/commands) 
-- [Basics](/basics) 
-- [Advanced Cinematography](/advanced) 
+- [Installation](/doc/shutter-fabric/installation) 
+- [Commands](/doc/shutter-fabric/commands) 
+- [Basics](/doc/shutter-fabric/basics) 
+- [Advanced Cinematography](/doc/shutter-fabric/advanced) 
 {.links-list}
