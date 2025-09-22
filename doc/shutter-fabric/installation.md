@@ -2,7 +2,7 @@
 title: Installing Shutter
 description: Load the batteries, clean the lens, set the tripod, make amends.
 published: true
-date: 2025-09-22T22:37:15.643Z
+date: 2025-09-22T22:38:15.017Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-22T22:36:39.564Z
@@ -21,7 +21,7 @@ You can Also install Fabric via the Modrinth Launcher:
 ![modrinth_launcher_install_fabric.png](/shutter_docs/installation/modrinth_launcher_install_fabric.png =680x)
 
 To get started, download the appropriate version of Shutter based on the minecraft version you are using from the list of supported versions above. You can view the list of versions on modrinth:
-- [![modrinth-icon-wide.webp](/brand_assets/modrinth-icon-wide.webp =44x) Select your version on Modrinth](https://modrinth.com/mod/shutter/versions) 
+- [![modrinth-icon-wide.webp](/brand_assets/modrinth-icon-wide.webp =44x) Download Shutter on Modrinth](https://modrinth.com/mod/shutter/versions) 
 {.links-list}
 
 
