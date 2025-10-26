@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-10-26T04:44:25.347Z
+date: 2025-10-26T04:47:30.375Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -44,9 +44,9 @@ dateCreated: 2025-07-16T11:00:07.831Z
 </div>
 
 <div class="card-unsupported">
-	<a href="/doc/iris/unsupported_plugins/geyser.webp" alt=GeyserMC>
-    <strong>GeyserMC</strong><br>
-    Geyser is not directly compatible with Iris' main overworld pack. 
+  <img src="/iris_docs/unsupported_plugins/geyser.png" alt="GeyserMC">
+  <strong>GeyserMC</strong><br>
+  Geyser is not supported if you intend to use Iris' default overworld pack as Geyser cannot raise the height limit on Bedrock clients.
 </div>
            
 <div class="links-list">
