@@ -2,7 +2,7 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-07-20T15:01:50.796Z
+date: 2025-10-26T04:44:25.347Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T11:00:07.831Z
@@ -43,6 +43,12 @@ dateCreated: 2025-07-16T11:00:07.831Z
   Hotload plugins are incompatible if they load Iris. Might work with server off, but not guaranteed.
 </div>
 
+<div class="card-unsupported">
+	<a href="/doc/iris/unsupported_plugins/geyser.webp" alt=GeyserMC>
+    <strong>GeyserMC</strong><br>
+    Geyser is not directly compatible with Iris' main overworld pack. 
+</div>
+           
 <div class="links-list">
   <a href="/doc/iris/integrations" class="next-link">
     <span class="link-text">Next</span>
