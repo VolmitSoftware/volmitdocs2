@@ -2,7 +2,7 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-07-20T15:08:46.433Z
+date: 2025-11-19T10:57:38.051Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T09:32:49.528Z
@@ -16,7 +16,7 @@ dateCreated: 2025-07-16T09:32:49.528Z
     <a class="iris-button" href="https://www.spigotmc.org/resources/myworlds.39594/" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
   <div class="iris-card">
-    <img src="/iris_docs/multiverse.webp" alt="multiverse.webp">
+    <img src="/iris_docs/multiverse.png" alt="multiverse.webp">
     <h3>Multiverse</h3>
     <p>Multiverse is a (newly) supported world management plugin.</p>
     <a class="iris-button" href="https://modrinth.com/plugin/multiverse-core" target="_blank" rel="noopener">Visit Plugin</a>
