@@ -2,7 +2,7 @@
 title: Nexo Integration
 description: Supporting custom nexo blocks in Iris generation.
 published: true
-date: 2025-11-19T11:27:43.958Z
+date: 2025-11-19T11:33:14.061Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T09:46:40.877Z
@@ -33,16 +33,18 @@ Then, open the file, preferrably this should be done in [VSCode](https://code.vi
 
 Find this part of the config:
 
+> This config is mix-maxed so you can see the limits of each option.
+{.is-info}
 
 ```yml
     "deposits": [
         {
-            "minHeight": 19,
+            "minHeight": -64,
             "maxPerChunk": 8,
-            "maxHeight": 390,
+            "maxHeight": 1024,
             "minPerChunk": 1,
-            "minSize": 25,
-            "maxSize": 25,
+            "minSize": 1,
+            "maxSize": 200,
             "palette": [
                 {
                     "block": "minecraft:granite"
@@ -52,7 +54,7 @@ Find this part of the config:
         },
 ```
 
-Add your own config using the custom ore properties found at step one. For example:
+Add your own config using the custom ore properties found in step one. For example:
 
 ```yml
     "deposits": [
