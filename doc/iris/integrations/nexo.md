@@ -2,7 +2,7 @@
 title: Nexo Integration
 description: Supporting custom nexo blocks in Iris generation.
 published: true
-date: 2025-11-19T11:34:36.998Z
+date: 2025-11-19T11:57:04.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T09:46:40.877Z
@@ -29,7 +29,7 @@ Then, open the file, preferrably this should be done in [VSCode](https://code.vi
 ### 2) Add your ore
 
 > In the default overworld.json file this is located around line 230.
-{.is-info}
+{.is-info}	
 
 Find this part of the config:
 
@@ -71,5 +71,11 @@ Add your own config using the custom ore properties found in step one. For examp
             "varience": 2
         },
 ```
-
 Save the file and create a new Iris world and you're all set. 
+> 
+> If you see this: 
+> <img class="white-logo" src="/iris_docs/integrations/nexo_ore.png" alt="nexo_ore.png">
+> It means you have messed up your ore creation somewhere in Nexo, not Iris.
+{.is-danger}
+
+
