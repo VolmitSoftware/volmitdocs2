@@ -2,7 +2,7 @@
 title: Supported Plugins
 description: 
 published: true
-date: 2025-11-19T10:57:38.051Z
+date: 2025-11-19T10:57:51.681Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-16T09:32:49.528Z
@@ -18,7 +18,7 @@ dateCreated: 2025-07-16T09:32:49.528Z
   <div class="iris-card">
     <img src="/iris_docs/multiverse.png" alt="multiverse.webp">
     <h3>Multiverse</h3>
-    <p>Multiverse is a (newly) supported world management plugin.</p>
+    <p>Multiverse is a (newly) supported world management plugin. Only v5+ is supported.</p>
     <a class="iris-button" href="https://modrinth.com/plugin/multiverse-core" target="_blank" rel="noopener">Visit Plugin</a>
   </div>
   <div class="iris-card">
