@@ -2,7 +2,7 @@
 title: Nexo Integration
 description: Supporting custom nexo blocks in Iris generation.
 published: true
-date: 2025-11-19T11:34:21.369Z
+date: 2025-11-19T11:34:36.998Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T09:46:40.877Z
