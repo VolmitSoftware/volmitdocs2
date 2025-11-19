@@ -2,7 +2,7 @@
 title: Nexo Integration
 description: Supporting custom nexo blocks in Iris generation.
 published: true
-date: 2025-11-19T11:57:44.547Z
+date: 2025-11-19T12:01:55.885Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T09:46:40.877Z
@@ -31,9 +31,11 @@ Then, open the file, preferrably this should be done in [VSCode](https://code.vi
 > In the default overworld.json file this is located around line 230.
 {.is-info}	
 
-> 
 > If you see this: 
-> <img class="white-logo" src="/iris_docs/integrations/nexo_ore.png" alt="nexo_ore.png">
+> `[Iris]: Failed to find BlockData! - [nexo:test_ore]`
+> `[Iris]: Loading block data nexo:test_ore`
+> `[Iris]: Can't find block data for nexo:test_ore`
+> `[Iris]: Can't find block data for minecraft:nexo:test_ore`
 > It means you have messed up your ore creation somewhere in Nexo, not Iris.
 {.is-danger}
 
