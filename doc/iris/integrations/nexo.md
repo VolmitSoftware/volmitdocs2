@@ -2,7 +2,7 @@
 title: Nexo Integration
 description: Supporting custom nexo blocks in Iris generation.
 published: true
-date: 2025-11-20T00:54:43.145Z
+date: 2025-11-20T00:55:32.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T09:46:40.877Z
@@ -115,8 +115,6 @@ Save the file and create a new Iris world and you're all set.
 ## Custom Furniture Block Options
 
 When placing Nexo furniture blocks in your Iris world generation, you can use additional data options to control their appearance and behavior:
-
-### Available Options
 
 **matchBiome** - Match the block's color to the biome's natural colors:
 - `FOG` - Match biome fog color
