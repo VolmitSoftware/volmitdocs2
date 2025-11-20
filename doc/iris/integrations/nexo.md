@@ -2,7 +2,7 @@
 title: Nexo Integration
 description: Supporting custom nexo blocks in Iris generation.
 published: true
-date: 2025-11-20T00:55:32.540Z
+date: 2025-11-20T20:29:27.552Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T09:46:40.877Z
@@ -76,37 +76,6 @@ Add your own config using the custom ore properties found in step one. For examp
             "varience": 2
         },
 ```
-
-### 3) Optional: Protect specific blocks from replacement
-
-If you want to prevent certain blocks from being replaced by ore deposits (for example, to protect Nexo custom blocks or other special blocks), you can use the `varianceBlocklist`:
-
-```json
-    "deposits": [
-        {
-            "minHeight": 19,
-            "maxPerChunk": 8,
-            "maxHeight": 390,
-            "minPerChunk": 1,
-            "minSize": 25,
-            "maxSize": 25,
-            "palette": [
-                {
-                    "block": "nexo:cobalt_ore"
-                }
-            ],
-            "varience": 2,
-            "varianceBlocklist": [
-                "nexo:custom_stone",
-                "nexo:special_block"
-            ]
-        },
-```
-
-The `varianceBlocklist` accepts a list of block IDs that should never be replaced when the ore deposit generates. This is useful for:
-- Protecting custom Nexo blocks from being overwritten
-- Preserving specific vanilla blocks in certain areas
-- Preventing ores from replacing important structural blocks
 
 Save the file and create a new Iris world and you're all set.
 
