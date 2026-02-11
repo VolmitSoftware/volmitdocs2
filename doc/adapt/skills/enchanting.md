@@ -2,7 +2,7 @@
 title: Adapt Skill: Enchanting
 description: 
 published: true
-date: 2026-02-11T03:23:05.161Z
+date: 2026-02-11T03:26:12.541Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-11T03:23:05.161Z
@@ -19,8 +19,8 @@ You can Enchant Books, and apply them onto armor that is available! (you nolonge
 ## Lapis return & XP Return
 
 These 2 Skills refund you lapis and experience as you enchant in a single session, more is refunded the more you spend.
-I cant really show this as an informational video so here is a picture of a cat instead.
+I cant really show this as an informational video so here is a picture of cats instead.
 
-![20260207_093934.jpg](/adapt_docs/skills/enchanting/20260207_093934.jpg)
+![img_4571.jpg](/adapt_docs/skills/enchanting/img_4571.jpg)
 
 ###
