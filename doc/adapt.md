@@ -2,7 +2,7 @@
 title: Adapt Documentation
 description: 
 published: true
-date: 2025-07-14T13:09:40.031Z
+date: 2026-02-11T01:02:43.738Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T15:39:36.423Z
@@ -17,6 +17,9 @@ dateCreated: 2025-07-13T15:39:36.423Z
 # Documentation
 
 - [What is Adapt?](/doc/adapt/what-is-adapt) 
-
+- [Skills Overview](/doc/adapt/skills) 
+- [Configuration](/doc/adapt/config) 
+- [Integrations](/doc/adapt/integration) 
+- [Localization](https://gitlocalize.com/repo/8085) 
 
 {.links-list}
