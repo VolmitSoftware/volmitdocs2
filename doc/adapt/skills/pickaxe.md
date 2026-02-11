@@ -2,7 +2,7 @@
 title: Adapt Skill: Pickaxe
 description: 
 published: true
-date: 2026-02-11T03:32:37.872Z
+date: 2026-02-11T03:33:18.782Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-11T03:30:35.375Z
