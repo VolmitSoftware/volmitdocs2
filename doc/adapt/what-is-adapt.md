@@ -2,7 +2,7 @@
 title: What is Adapt?
 description: 
 published: true
-date: 2026-02-11T01:24:17.831Z
+date: 2026-02-11T01:30:43.264Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-14T13:15:30.468Z
@@ -23,5 +23,5 @@ Adapt Abilities are all accessible in the in-game GUI using `/adapt gui` or by r
 
 ![adapt_logo.png](/adapt_docs/adapt_logo.png =325x){.align-center}
 
-- [Next -> *Skills Overview*](/doc/adapt/skills) 
+- [Up Next -> *Skills Overview*](/doc/adapt/skills) 
 {.links-list}
