@@ -2,7 +2,7 @@
 title: Adapt Skill: Brewing
 description: 
 published: true
-date: 2026-02-11T03:06:42.753Z
+date: 2026-02-11T03:07:51.046Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-11T03:00:24.808Z
