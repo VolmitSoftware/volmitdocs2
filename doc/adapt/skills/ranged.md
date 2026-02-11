@@ -2,7 +2,7 @@
 title: Adapt Skill: Ranged
 description: 
 published: true
-date: 2026-02-11T03:34:02.231Z
+date: 2026-02-11T03:37:32.114Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-11T03:34:02.231Z
@@ -30,6 +30,6 @@ When you shoot an arrow it throws you in the opposite direction you are aiming, 
 
 ## Web Snare
 
-The Armor-up Skill allows you to passively gain armor while you move! The more you move, The more armor you get.&#x20;
+Unlocks a new crafting recipie, a snowball surrounded by cobwebs, giving you a throwable item that creates a pile of web wherever it lands lands.
 
 <figure><img src="https://3127128202-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MfoFX2dfkStgmLtPp9B%2Fuploads%2FTkseXaLk4VRNIB64SM8F%2Fjava_KF85GRqjAH.gif?alt=media&#x26;token=4eed74ae-b506-4407-acf9-5dec64dbc66e" alt=""><figcaption></figcaption></figure>
