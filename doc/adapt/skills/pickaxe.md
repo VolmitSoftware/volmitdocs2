@@ -2,7 +2,7 @@
 title: Adapt Skill: Pickaxe
 description: 
 published: true
-date: 2026-02-11T03:30:35.375Z
+date: 2026-02-11T03:32:37.872Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-11T03:30:35.375Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-11T03:30:35.375Z
 
 ## Ore Chisel
 
-Working with fortune, and inventory smelter, you are able to carefully pry ores from the block! Warning it does have an increases cost to the tool's durability!
+At the cost of more durability then normal, you can right click an ore a few times to carefully pry more then one ore drop from a block.
 
 <figure><img src="https://3127128202-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MfoFX2dfkStgmLtPp9B%2Fuploads%2FIrOakAeW0xuVskqWyJ9C%2Fjava_r2kOTcGXog.gif?alt=media&#x26;token=fa7fa7bb-79d8-4eea-b7ad-f799f7038713" alt=""><figcaption></figcaption></figure>
 
