@@ -2,35 +2,82 @@
 title: Adapt Skill: Brewing
 description: 
 published: true
-date: 2026-02-11T03:00:24.808Z
+date: 2026-02-11T03:06:42.753Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-11T03:00:24.808Z
 ---
 
-# Blocking
+# Brewing
 
-## Multi-Armor
+## Lingering-Brew
 
-This allows you to passively grant yourself an item that switches based on need, akin to Excavation Multitool, this chestplate-elytra hybrid will switch based on what you are doing, if you are falling it is an elytra, or if you are on the ground its a chestplate!&#x20;
+This skill allows for your brewed potions at max level  to have an increase of up to 600ms more! (configurable)
 
-<figure><img src="https://3127128202-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MfoFX2dfkStgmLtPp9B%2Fuploads%2FSDTCG3ChptluwHHOz1PW%2Fjava_EdNx1u5wpa.gif?alt=media&#x26;token=e0bf5ecb-83ee-497c-82e2-caa86789c615" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://3127128202-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MfoFX2dfkStgmLtPp9B%2Fuploads%2FxT4emGRTayXtMpz8CT8F%2Fjava_xM45qd9PnC.png?alt=media&#x26;token=d1173b6a-a985-451a-bc6d-d325ebe7c8d8" alt=""><figcaption></figcaption></figure>
 
-## Chains of Mephistopheles&#x20;
+## Super-Heated Brew
 
-Chains are a **Permanent Skill** by default, but this allows the wearer to create chainmail armor by using the Iron nuggets in the same way as normal ingots!
+The hotter the blocks surrounding a brewing stand, the faster the brews are!
 
-<figure><img src="https://3127128202-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MfoFX2dfkStgmLtPp9B%2Fuploads%2Fcc91awxibmfFlkCZ8e6c%2Fjava_2UAZSOnhrU.gif?alt=media&#x26;token=ff342443-0ca0-48ba-b6e1-a23392f48198" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://3127128202-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MfoFX2dfkStgmLtPp9B%2Fuploads%2FBwmdik2zWGLtOmXGXSN7%2Fjava_M9jl42xzBo.gif?alt=media&#x26;token=674de4d7-41b5-4e66-95cc-da8ad08aaa03" alt=""><figcaption></figcaption></figure>
 
-## Craftable Saddle&#x20;
+## Bottled \[Brew here]
 
-This is a a **Permanent Skill** by default, that lets you Craft Saddles using leather in an upside down helmet shape!
+These Skills allow you to brew unsafe and strange potions that all have a splash, normal, and lingering variant of themselves!\
+All potions once learned are **Permanent by default**! And the potions can be very strong if used in tandem with each other and vanilla potions!
 
-<figure><img src="https://3127128202-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MfoFX2dfkStgmLtPp9B%2Fuploads%2FgEKQz4DYy4V7V1XEuttR%2Fjava_fexVEBhYXe.gif?alt=media&#x26;token=00cb1915-c98b-499d-b82b-f13086b43a9c" alt=""><figcaption></figcaption></figure>
+### Absorption :&#x20;
 
-## Craftable Horse-Armor
+Instant Heal + Quartz = Potion of Absorption (60 seconds)\
+Instant Heal + Quartz Block = Potion of Absorption-2 (30 seconds)
 
-Craftable Horse-Armor is a **Permanent Skill** by default, you are able to Craft horse armor by surrounding a saddle with any resource like Gold, iron, diamonds etc...
+### Blindness :&#x20;
 
-<figure><img src="https://3127128202-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MfoFX2dfkStgmLtPp9B%2Fuploads%2Fcn5Ko8jfprllDgJIATMC%2Fjava_IesAZoIrhV.gif?alt=media&#x26;token=1856a6c9-2351-4792-9645-73c94c40d18d" alt=""><figcaption></figcaption></figure>
+Awkward Potion + Ink sack = Potion of Blindness (30 seconds)\
+Awkward Potion + Glowing Ink Sack = Potion of Blindness-2 (15 seconds)
 
+### Darkness :&#x20;
+
+NightVision Potion + Black Concrete = Potion of Darkness (30 seconds)\
+\&#xNAN;*It Should be noted that This prevents the user from Sprinting! (that's why this is good)*
+
+### Decay :&#x20;
+
+Weakness Potion + Poisonous Potato = Potion of Wither (16 seconds)\
+Weakness Potion + Crimson Roots = Potion of Wither-2 (8 seconds)
+
+### Fatigue :&#x20;
+
+Weakness Potion + Slime Ball = Potion of Fatigue (30 seconds)\
+Weakness Potion + Slime Block = Potion of Fatigue-2 (15 seconds)
+
+### Haste :&#x20;
+
+Speed Potion + Amethyst Shard = Potion of Haste (60 seconds)\
+Speed Potion + Amethyst Block = Potion of Haste-2 (30 seconds)
+
+### Life :&#x20;
+
+Instant-Healing Potion + Golden Apple = Potion of Health Boost (120 seconds)\
+Instant-Healing Potion + Enchanted Golden Apple = Potion of Health Boost-2 (120 seconds)
+
+### Hunger :&#x20;
+
+Awkward Potion + Rotten Flesh = Potion of Hunger (30 seconds)\
+Weakness Potion + Rotten Flesh = Potion of Hunger-3 (15 seconds)
+
+### Nausea :&#x20;
+
+Awkward Potion + Brown Mushroom = Potion of Nausea (16 seconds)\
+Awkward Potion + Crimson Fungus = Potion of Nausea-2 (8 seconds)
+
+### Resistance :&#x20;
+
+Awkward Potion + Iron Ingot = Potion of Resistance (60 seconds)\
+Awkward Potion + Iron Block = Potion of Resistance-2 (30 seconds)
+
+### Saturation : &#x20;
+
+Regen Potion + Baked Potato = Potion of Saturation \
+Regen Potion + Hay Bale = Potion of Saturation-2
