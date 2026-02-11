@@ -2,7 +2,7 @@
 title: Adapt Skills Overview
 description: Collection of all skills in adapt
 published: true
-date: 2026-02-11T01:31:34.017Z
+date: 2026-02-11T01:32:08.409Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-11T01:12:31.419Z
@@ -35,6 +35,10 @@ The Skills are as follows:
 - [TragOul](/doc/adapt/skills/tragoul) 
 - [Unarmed](/doc/adapt/skills/unarmed) 
 {.links-list}
+
+
+---
+
 
 - [Up Next -> *Configuration*](/doc/adapt/config) 
 {.links-list}
