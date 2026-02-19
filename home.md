@@ -2,13 +2,13 @@
 title: Home
 description: Volmit Software Plugin Documentation
 published: true
-date: 2025-09-13T19:11:21.775Z
+date: 2026-02-19T11:52:16.725Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-13T11:50:25.837Z
 ---
 
-![icon.webp](/brand_assets/icon.webp){.align-abstopright}
+![ticking_volmit_logo.gif](/brand_assets/ticking_volmit_logo.gif){.align-abstopright}![icon.webp](/brand_assets/icon.webp){.align-abstopright}
 
 
 
