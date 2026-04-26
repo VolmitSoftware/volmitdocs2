@@ -2,10 +2,10 @@
 title: Unsupported Plugins
 description: 
 published: true
-date: 2025-10-26T04:47:30.375Z
+date: 2026-04-26T17:40:42.482Z
 tags: 
 editor: markdown
-dateCreated: 2025-07-16T11:00:07.831Z
+dateCreated: 2026-04-26T17:25:12.325Z
 ---
 
 # Unsupported Plugins
@@ -29,12 +29,6 @@ dateCreated: 2025-07-16T11:00:07.831Z
   <img src="/iris_docs/unsupported_plugins/ewg.webp" alt="EWG">
   <strong>Epic World Generator</strong><br>
   EpicWorldGenerator is incompatible for main worlds. It overwrites the world Iris manages.
-</div>
-
-<div class="card-unsupported">
-  <img src="/iris_docs/unsupported_plugins/rwg.jpg" alt="RWG">
-  <strong>Realistic World Generator</strong><br>
-  RealisticWorldGenerator is incompatible for main worlds. It overwrites the world Iris manages.
 </div>
 
 <div class="card-unsupported">
